@@ -1,1 +1,2 @@
-This is message no:3. working on learning git.
+This is message no:3. Learning and working on using git.
+Needs to commit this file
